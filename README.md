@@ -1,1 +1,1 @@
-# SI-Jaringan_Prak3
+# Praktikum Sistem Informasi & Jaringan
